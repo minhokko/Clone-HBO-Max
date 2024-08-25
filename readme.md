@@ -65,4 +65,4 @@ Você pode acessar ao resultado final do projeto <a href="https://hbo-max-clone.
 
 ## 🙋🏻‍♂️ Autor
 
-Bruno Oliveira
+Willian Matheus
