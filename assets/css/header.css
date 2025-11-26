@@ -3,7 +3,7 @@
     padding: 6.25rem 0 18.75rem;
     position: relative;
 
-    background: linear-gradient(-45deg, #56125b, #0f0f10, #271e6e);
+    background: linear-gradient(-45deg, #121b5b, #0f0f10, #271e6e);
     background-size: 400% 400%;
 
     animation: gradient 5s ease infinite alternate;
